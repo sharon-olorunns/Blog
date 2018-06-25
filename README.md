@@ -1,2 +1,24 @@
-# Blog
-Building a blog with comments using Ruby on Rails is a foundational exercise I went through to learn more about the framework. Working together, both Ruby and Rails lend us a hand to generate a fairly simple MVC pattern built on top of a CRUD approach when working with dynamic data.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
